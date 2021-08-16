@@ -1,0 +1,7 @@
+.report_edsembli .fa-info-circle {
+    cursor: pointer;
+}
+
+.report_edsembli .detail {
+    display: none;    
+}
